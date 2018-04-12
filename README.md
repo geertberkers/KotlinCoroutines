@@ -3,7 +3,7 @@
 Created this project to learn about Kotlin Coroutines
 
 Quick link to Coroutines Test:
- [Kotlin Coroutines Unit Tests](https://github.com/geertberkers/KotlinCoroutinesUnitTests/blob/master/app/src/test/java/geert/berkers/kotlincoroutinesunittests/KotlinCoroutinesTests.kt)
+ [Kotlin Coroutines Unit Tests](https://github.com/geertberkers/KotlinCoroutinesUnitTests/blob/master/app/src/test/java/geert.berkers.kotlincoroutines/KotlinCoroutinesTests.kt)
 
 This project contains a Android Project with simple test functions.
 This was just for simple running and testing.
